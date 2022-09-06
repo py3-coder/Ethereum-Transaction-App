@@ -25,13 +25,13 @@ MetaMask is a Crypto Wallet and Your Gateway to Web3.Buy, store and send tokens 
 
 ## Visuals
 * HomePage:
-![Main Page](https://drive.google.com/file/d/13DNIS40bdrSCy7zerm-Q98DNx9WTSIOy/view?usp=sharing)
+![Main Page]()
 * Services:
-![Services](https://drive.google.com/file/d/1-C9T2LfOBKcss2dGPzo6GZu6ngI9h2Ue/view?usp=sharing)
+![Services]()
 * Record on App:
-![Transactions](https://drive.google.com/file/d/1QBGj8q_iy4gDyqtVquIdY8m25YTGMgTa/view?usp=sharing)
+![Transactions]()
 * Record on Remote Server:
-![Etherscan](https://drive.google.com/file/d/12jiiQcsaz3zFtKUc_AMnpKll19Zoz8mt/view?usp=sharing)
+![Etherscan]()
 
 ## Installation
 * Visual Studio Code

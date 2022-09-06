@@ -25,13 +25,13 @@ MetaMask is a Crypto Wallet and Your Gateway to Web3.Buy, store and send tokens 
 
 ## Visuals
 * HomePage:
-![Main Page]()
+[Main Page]
 * Services:
-![Services]()
+[Services]
 * Record on App:
-![Transactions]()
+[Transactions]
 * Record on Remote Server:
-![Etherscan]()
+[Etherscan]
 
 ## Installation
 * Visual Studio Code
@@ -58,6 +58,6 @@ Crypto-mining is under coding phase.
 Working demo of Application can be accessed at:[Youtube](https://www.youtube.com/watch?v=pZ0uzUHCvJk&t=3s)
 
 ## WebApp can be accessed at:
-[ethereum-transfer]https://saurabhcrypto.netlify.app)
+[Ethereum-Transaction-App](https://saurabhcrypto.netlify.app)
 
 Thankyou

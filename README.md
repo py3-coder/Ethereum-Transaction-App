@@ -1,10 +1,10 @@
 # [Ethereum-Transaction-App](https://saurabhcrypto.netlify.app)
 An app which helps in transfering of  Eth assets.
 
-## Name
+## Name :
 Ethereum transaction App using BLockchain on Web 3.0
 
-## Description
+## Description :
 Technologies used in implementation of this Application are as follows:
 ### Web 3.0:
 The web 3.0 definition varies depending on who you ask, but in general, it’s considered the third generation of the internet. Web 3.0 is also called the semantic web or the spatial web. If you break the evolution of the internet into segments with the first being simple web pages and the second being apps, social media, and mass adoption, the emerging blockchain-based web would be internet 3.0. Essentially, it’s a user-friendly, more secure, more private and better connected internet.
